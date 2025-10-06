@@ -1,3 +1,7 @@
+<div align="center">
+    <img src="" />
+</div>
+
 # Projeto Podcast Gerado por I.A.s
 
 
