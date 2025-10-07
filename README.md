@@ -15,12 +15,11 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 - [ChatGPT](https://chat.openai.com/)
 - [Copilot](https://m365.cloud.microsoft/)
-- [ElevenLabs](https://beta.elevenlabs.io/)
-- [Capcut](https://www.capcut.com/pt-br/)
+- [Google AI Studio](aistudio.google.com/generate-speech)
 
 ## ✨ Como foi feito ?
 
-- Roteiro gerado via chatgpt
-- Audio gerado pela elevenLabs
+- Roteiro gerado via ChatGPT
+- Audio gerado pela google AI Studio
 - Copilot Para gerar capas
-- Capcut para tratar aúdio e adicionar sons de fundo
+
